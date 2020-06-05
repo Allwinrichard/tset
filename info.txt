@@ -1,2 +1,3 @@
 name: allwin
 reg no: 17bit109
+age........20
